@@ -1,6 +1,6 @@
 # Jquery::Gmap3::Rails
 
-This gem provides your Rails 3 application with the GMAP3 Plugin for JQuery.
+This gem provides your Rails 3 application with Jean-Baptiste DEMONTE's [GMAP3 Plugin for JQuery](http://gmap3.net/).
 
 ## Installation
 
