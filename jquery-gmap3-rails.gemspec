@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["erick.dennis@gmail.com"]
   gem.description   = "This gem provides your Rails 3 application with the GMAP3 Plugin for JQuery."
   gem.summary       = "Use GMAP3 Plugin for JQuery with Rails 3"
-  gem.homepage      = "http://github.com/erickd/jquery-gmap3-rails"
+  gem.homepage      = "http://github.com/edennis/jquery-gmap3-rails"
 
   # todo: add the correct jquery-rails version
   gem.add_dependency "jquery-rails", ">= 1.0"
